@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+*.local
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+laf-cloud/package.json
+laf-cloud/laf.yaml
+.vscode/laf.json
+laf-cloud/package-lock.json
+node_modules
+**/test*.js
+laf-cloud/functions/test*.ts
+laf-cloud/functions/test*.yaml
+
+**/*test*.ts
+**/*test*.yaml
+WeddingDress.js
+old-premium.js
